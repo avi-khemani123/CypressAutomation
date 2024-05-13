@@ -1,0 +1,20 @@
+{
+  "InValidData": [
+    {
+      "Name": " avi",
+      "Email": "john.com",
+      "Phone": "03029728093",
+      "CompanyName": "stixor",
+      "Message": "good"
+    }
+  ],
+  "ValidData": [
+    {
+      "Name": " adesh",
+      "Email": "avikhemai785@hotmail.com",
+      "Phone": "03029728093",
+      "CompanyName": "stixor",
+      "Message": "There is a bug"
+    }
+  ]
+}
