@@ -8,5 +8,4 @@ module.exports = defineConfig({
       require("cypress-mochawesome-reporter/plugin")(on);
     },
   },
-  // baseurl: "https://member.daraz.com.np/user/register?spm=a2a0e.11779170.header.d6.287d2d2bi2Baug",
 });
